@@ -1,0 +1,14 @@
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.deps.json
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.runtimeconfig.json
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.runtimeconfig.dev.json
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.dll
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\bin\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.pdb
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.csprojAssemblyReference.cache
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.RazorAssemblyInfo.cache
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.RazorAssemblyInfo.cs
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.AssemblyInfoInputs.cache
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.AssemblyInfo.cs
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.dll
+C:\Users\Kenny-Desktop\source\repos\LambdaShoppingListWebAPI\LambdaShoppingListWebAPI\obj\Release\netcoreapp2.1\rhel.7.2-x64\LambdaShoppingListWebAPI.pdb
